@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **Devops**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **prasadyadavcloud@gmail.com**
 
