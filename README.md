@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Cloud native project**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOps/Cloud**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **DevOps/Cloud**
 
 - 📫 How to reach me **prasadyadavcloud@gmail.com**
 
